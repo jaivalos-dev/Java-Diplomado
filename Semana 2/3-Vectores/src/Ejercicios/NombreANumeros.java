@@ -8,7 +8,7 @@ public class NombreANumeros {
 
         String nombre = "Javier";
         String resultado = "";
-        z
+
         nombre = nombre.toLowerCase();
 
         for (int i = 0; i < nombre.length(); i++){
